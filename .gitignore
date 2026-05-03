@@ -1,0 +1,6 @@
+# Entorno de ejecución
+.venv/
+__pycache__/
+
+# Data
+data/guntenberg/data/
